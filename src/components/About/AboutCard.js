@@ -13,7 +13,7 @@ function AboutCard() {
             <br />And currently pursuing Electronics and  Communication Engineering.
             <br />
             <br />
-           Some other passions of mine......
+           My interest and hobbies......
           </p>
           <ul>
             <li className="about-activity">

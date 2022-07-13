@@ -19,9 +19,9 @@ function Home2() {
              I would like to have this  <span className="purple">opportunity</span> to tell you something about myself
             </h1>
             <p className="home-about-body">
-              I like to do web development and programming and I learnt at least something from these
+I have learnt few basics in web development and i would like to work on it.
               <br />
-              <br />I know some languages like
+              <br />Languages known
               <i>
                 <b className="purple"> C++, Javascript. </b>
               </i>
