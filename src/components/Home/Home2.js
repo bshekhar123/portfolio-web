@@ -23,7 +23,7 @@ I have learnt few basics in web development and i would like to work on it.
               <br />
               <br />Languages known
               <i>
-                <b className="purple"> C++, Javascript. </b>
+                <b className="purple"> C, C++, Javascript. </b>
               </i>
               <br />
               <br />
